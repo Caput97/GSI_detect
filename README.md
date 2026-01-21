@@ -9,6 +9,5 @@ Currently, it contains both the development and test sets of the GSI:detect data
 For any additional information, please visit the [GSI:detect](https://gsi-d-evalita.fbk.eu) website at EVALITA 2026.
 
 
-N.B. : The GSI:detect dataset is distributed under a CC BY-NC-SA 4.0 Licence
-
+N.B. : The GSI:detect dataset is distributed under a CC BY-NC-SA 4.0 Licence.
 A content warning applies as some items may contain sensitive, offensive, or otherwise distressing content.
