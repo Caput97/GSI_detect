@@ -1,5 +1,9 @@
 # GSI_detect
 
+
+![GSI:detect task Official Logo](GSI:detect.png)
+
 This is the repository for the GSI:detect 🕵 project.
-At the moment it contains only the dev set of our GSI:detect dataset. After December 2025, it will be updated with all the proper information and the whole dataset.
+Currently, it contains both the development and test sets of the GSI:detect dataset, along with the official scorer used to evaluate the results defined in the shared task.
+For any additional information, please visit the [GSI:detect](https://gsi-d-evalita.fbk.eu) website at EVALITA 2026.
 
