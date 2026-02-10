@@ -1,4 +1,4 @@
-# GSI:detect Shared-task at EVALITA 2026 
+# GSI:detect Shared-task <!-- at EVALITA 2026 -->
 
 
 ![GSI:detect task Official Logo](GSI_detect.png)
