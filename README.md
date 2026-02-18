@@ -1,7 +1,7 @@
 # GSI:detect Shared-task
 
 
-<!--![GSI:detect task Official Logo](GSI_detect.png) -->
+
 
 This is the repository for the GSI:detect 🕵 project.
 
