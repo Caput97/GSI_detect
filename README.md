@@ -8,7 +8,7 @@ This is the repository for the GSI:detect 🕵 project.
 The resulting dataset has been used in the context of the EVALITA shared-task in which many participants tested LLMs in the GS-value detection and GS-category classification tasks. 
 If you want to know more or check the results obtained, please go to our [GSI:detect website](https://gsi-d-evalita.fbk.eu/home). 
 
-Currently, it contains both the development and test sets of the GSI:detect dataset, along with the official scorer used to evaluate the results defined in the shared task.
+Currently, this repository contains both the development and test sets of the GSI:detect dataset, along with the official scorer used to evaluate the results defined in the shared task.
 
 
 
