@@ -1,6 +1,6 @@
 # GSI:detect Shared-task
 
-
+![Descrizione immagine](GSI Detect Logo - FINALE - bianco_nuovo_trasparente_header_bordo.png)
 
 
 This is the repository for the GSI:detect 🕵 project.
