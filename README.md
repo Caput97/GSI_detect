@@ -10,6 +10,8 @@ If you want to know more or check the results obtained, please go to our [GSI:de
 
 Currently, this repository contains both the development and test sets of the GSI:detect dataset, along with the official scorer used to evaluate the results defined in the shared task.
 
+Moreover, you can find our project update GSI124_HumanAnnotation, including a subset of 124 items from GSI:detect dataset which has been annotated by 281 Italian Annotators!
+
 
 
 
